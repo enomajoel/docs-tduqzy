@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-m912z5.keitaro-tech-rtb.online/sitemap.xml
